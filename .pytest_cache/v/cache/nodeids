@@ -1,0 +1,5 @@
+[
+  "tests/test_pwa_starter.py::TestStarter::test_basic",
+  "tests/test_pwa_starter.py::TestStarter::test_empty",
+  "tests/test_pwa_starter.py::TestStarter::test_type_error"
+]
